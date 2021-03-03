@@ -3,7 +3,7 @@
 2. 将散布在项目各处文件里的老版本号，同步修改为新版本号。比如 Makefile, install.sh, README.md, USAGE.md, config.yaml, setup.py, init.py
 3. 可选：使用新版本号打 git tag，提交 git 记录："Bump version: 1.8.0 → 1.8.1"
 
-## 用法演示
+## 演示
 
 ```sh
 $ bump2version alpha
@@ -52,8 +52,12 @@ $ bump2version alpha
 2.1.0-alpha.4
 ```
 
-## 附录
-上面演示中使用的 .bumpversion.cfg 配置：
+## 实操
+
+1. 安装
+   pip install --upgrade bump2version
+
+2. 在项目根目录创建配置文件 .bumpversion.cfg。上面演示中使用的配置是：
 
 ```ini
 [bumpversion]
