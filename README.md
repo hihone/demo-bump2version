@@ -1,1 +1,1 @@
-latest version: 1.8.0-alpha.39
+latest version: 1.8.0-alpha.40
