@@ -1,1 +1,1 @@
-latest version: 1.8.1
+latest version: 1.8.2-alpha.1
