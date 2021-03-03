@@ -1,1 +1,1 @@
-DEPLOY_VERSION=v1.8.0-alpha.38
+DEPLOY_VERSION=v1.8.0-alpha.39
